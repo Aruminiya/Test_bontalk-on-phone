@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <h1>Bontalk on phone</h1>
+      <h1>Bontalk app test</h1>
       <button>Click me</button>
     </>
   )
